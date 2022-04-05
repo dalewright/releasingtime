@@ -1,5 +1,3 @@
-# AutoText and Step by Step Commands for Medical staff working in the Emergency Department using Cerner
-
 ## Step By Step Commands
 
 ### Start new note
@@ -17,3 +15,13 @@ Step | Type | Content
 7 | Enter HotKey | Down
 8 | Enter HotKey | Down
 9 | Enter HotKey | Enter
+
+## AutoText
+
+### Initial ED Assessment
+
+> "Insert ED Assessment"
+
+```
+The patient is a [ ] year old [ male / female ] patient who presents [ ].
+```
