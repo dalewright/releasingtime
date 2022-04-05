@@ -1,6 +1,8 @@
-## Step By Step Commands
+Helping __Medical__ staff in __Emergency__ dictate into __Cerner__.
 
-### Start new note
+# Step By Step Commands
+
+## Start new note
 
 > "Open new note"
 
@@ -16,9 +18,9 @@ Step | Type | Content
 8 | Enter HotKey | Down
 9 | Enter HotKey | Enter
 
-## AutoText
+# AutoText
 
-### Initial ED Assessment
+## Initial ED Assessment
 
 > "Insert ED Assessment"
 
