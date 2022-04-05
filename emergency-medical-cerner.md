@@ -4,10 +4,9 @@ AutoText and Step by Step Commands for Medical staff working in the Emergency De
 
 ## Start new note
 
-Spoken form:
 > "Open new note"
 
-Step Number | Step Type | Step Content
+Step | Type | Content
 ------------ | ------------- | ------------- 
 1 | Enter HotKey | Alt + P
 2 | Enter HotKey | Down
