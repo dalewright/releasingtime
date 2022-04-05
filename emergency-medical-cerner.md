@@ -1,8 +1,8 @@
-AutoText and Step by Step Commands for Medical staff working in the Emergency Department using Cerner
+# AutoText and Step by Step Commands for Medical staff working in the Emergency Department using Cerner
 
-# Step By Step Commands
+## Step By Step Commands
 
-## Start new note
+### Start new note
 
 > "Open new note"
 
