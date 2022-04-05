@@ -2,6 +2,9 @@ Test
 
 # Services
 
-* Emergency (/emergency)
-* Mental Health (/menthal-health)
-* Pathology (/pathology)
+Service | Role
+------------ | -------------
+Emergency | [Medical](/emergency-medical)
+Emergency | [Nursing](/emergency-nursing)
+Laboratory | [Pathologist](/laboratory/pathologist)
+Laboratory | [Scientist](/laboratory/scientist)
