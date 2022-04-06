@@ -26,6 +26,7 @@ Step | Type | Content
 
 ```
 PRESENTING COMPLAINT:
+
 The patient is a [ ] year old [ male / female ] patient who presents [ ].
 
 HISTORY:
