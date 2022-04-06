@@ -1,4 +1,4 @@
-Helping __Medical__ staff in __Emergency__ dictate clinical documentation into __Cerner__.
+Helping __Medical__ staff in __Emergency__ using __Cerner EMR__ release time.
 
 # Step By Step Commands
 
