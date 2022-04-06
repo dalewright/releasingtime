@@ -1,5 +1,9 @@
 Select resources relevant to your work:
 
-Service | Role | Information System | Resources
------------- | ------------- | ------------- | -------------
-Emergency | Medical | Cerner EMR | [Example AutoText and Step By Step Commands](emergency-medical-cerner-emr.md)
+# Medical
+
+## Emergency
+
+[Example EMR AutoText](emergency-medical-emr-auto-text.md)
+[Example EMR Step By Step Commands](emergency-medical-emr-step-by-step-commands.md)
+[Example Outlook Step By Step Commands](outlook-step-by-step-commands.md)
