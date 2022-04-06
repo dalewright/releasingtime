@@ -1,3 +1,5 @@
+Helping __Medical__ staff in __Emergency__ release time, using __Auto Text__ in __Cerner EMR__
+
 > "Insert ED Assessment"
 
 ```
