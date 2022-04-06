@@ -27,4 +27,15 @@ Step | Type | Content
 ```
 PRESENTING COMPLAINT:
 The patient is a [ ] year old [ male / female ] patient who presents [ ].
+
+HISTORY:
+
+Medical History: [ NAD | Diabetes | CVS ]
+Surgical History: [ NAD ]
+Social History: [ NAD | Smoking | Alcohol ]
+Medication History: [ NAD ]
 ```
+
+__Tips:__
+
+1. Saying "Field complete" will choose the  option before the 1st "|". 
