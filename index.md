@@ -7,9 +7,9 @@ Select the pages relevent to your work and bookmark for future reference
 ### EMR
 
 * [Example EMR AutoTexts](medical/emergency/cerner/autotext.md)
-* [Example EMR Step By Step Commands](/medical/emergency/cerner/ST.md)
+* [Example EMR Step By Step Commands](medical/emergency/cerner/step-by-step-commands.md)
 
-# All Healthcare Staff
+# Healthcare Staff
 
 ## Outlook
 
