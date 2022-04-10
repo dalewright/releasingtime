@@ -7,8 +7,8 @@ Select resources relevant to your work:
 ### EMR
 
 * [Example EMR AutoTexts](medical-emergency-autotext-cerner-emr.md)
-* [Example EMR Step By Step Commands](emergency-medical-step-by-step-commands-cerner-emr)
+* [Example EMR Step By Step Commands]()
 
 ### Outlook
 
-* [Example Outlook Step By Step Commands](outlook-step-by-step-commands.md)
+* [Example Outlook Step By Step Commands]()
