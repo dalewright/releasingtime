@@ -17,4 +17,4 @@ Select the pages relevent to your work and bookmark for future reference
 
 ## Word
 
-* [Exammple Word Step By Steo Commands](health-care-staff/word/step-by-step-commands.md)
+* [Exammple Word Step By Step Commands](health-care-staff/word/step-by-step-commands.md)
