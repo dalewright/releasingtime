@@ -6,8 +6,8 @@ Select the pages relevent to your work and bookmark for future reference
 
 ### EMR
 
-* [Example EMR AutoTexts](medical-emergency-autotext-cerner-emr.md)
-* [Example EMR Step By Step Commands]()
+* [Example EMR AutoTexts](medical/emergency/cerner/autotext.md)
+* [Example EMR Step By Step Commands](/medical/emergency/cerner/ST.md)
 
 # All Healthcare Staff
 
