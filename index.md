@@ -1,4 +1,4 @@
-Select the page(s) relevent to your role and bookmark for future reference.
+Select the pages relevent to your work and bookmark for future reference
 
 # Medical
 
