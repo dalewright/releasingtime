@@ -1,5 +1,3 @@
-Select resources relevant to your work:
-
 # Medical
 
 ## Emergency
